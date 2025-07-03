@@ -7,28 +7,29 @@ A: Hello World
 
 # Folder Structure
 
-```
-Django folder
-Flask folder
-Fastapi folder
-```
+Django folder<br />
+Flask folder<br />
+Fastapi folder<br />
 
 # Setup guide
 
-```
 Django:
+
+```
 pip install -r requirements.txt
 python manage.py runserver 0.0.0.0:8000
 ```
 
-```
 Flask:
+
+```
 pip install -r requirements.txt
 python app.py
 ```
 
-```
 FastAPI:
+
+```
 pip install -r requirements.txt
 python main.py
 ```
