@@ -2,7 +2,7 @@
 
 ## Contains a simple python backend server
 
-Q: What does it do?
+Q: What does it do? <br />
 A: Hello World
 
 # Folder Structure
@@ -19,11 +19,15 @@ Fastapi folder
 Django:
 pip install -r requirements.txt
 python manage.py runserver 0.0.0.0:8000
+```
 
+```
 Flask:
 pip install -r requirements.txt
 python app.py
+```
 
+```
 FastAPI:
 pip install -r requirements.txt
 python main.py
